@@ -1,7 +1,0 @@
-Projeto DevWeb Av2N1
-
-Segunda nota da N1 da disciplina de Desenvolvimento Web - BCC (S7)
-
-Aplicação: Calculadora Web
-
-Equipe: Rhayane Monteiro e Jaciana Barbosa
